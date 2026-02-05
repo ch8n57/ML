@@ -1,3 +1,6 @@
 1. Import Libraries (numpy, pandas, sklearn, matplotlib)
 2. read dataset
 3. split the data based on independent(x) and dependent variables(y)
+4. Divide the dataset into training and testing dataset
+5. Implement classifier based on simple linear regression
+6. Implement the Graph 
